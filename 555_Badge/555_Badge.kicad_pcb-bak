@@ -127,7 +127,7 @@
   )
 
   (module digikey-footprints:Battery_Holder_Coin_2032_BS-7 (layer F.Cu) (tedit 5ACD0859) (tstamp 61336AD9)
-    (at 132.257401 99.085001)
+    (at 101.777401 110.515001)
     (descr http://www.memoryprotectiondevices.com/datasheets/BS-7-datasheet.pdf)
     (path /6125515F)
     (fp_text reference BAT1 (at 7.52856 -12.3063) (layer F.SilkS)
@@ -159,7 +159,7 @@
   )
 
   (module Capacitor_THT:CP_Radial_D5.0mm_P2.00mm (layer F.Cu) (tedit 5AE50EF0) (tstamp 61336B5C)
-    (at 175.404776 98.505001)
+    (at 144.924776 109.935001)
     (descr "CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor")
     (path /6124F635)
@@ -308,7 +308,7 @@
   )
 
   (module Capacitor_THT:CP_Radial_D6.3mm_P2.50mm (layer F.Cu) (tedit 5AE50EF0) (tstamp 61336BF0)
-    (at 167.870242 101.195001)
+    (at 137.390242 112.625001)
     (descr "CP, Radial series, Radial, pin pitch=2.50mm, , diameter=6.3mm, Electrolytic Capacitor")
     (tags "CP Radial series Radial pin pitch 2.50mm  diameter 6.3mm Electrolytic Capacitor")
     (path /6124FCB0)
@@ -474,7 +474,7 @@
   )
 
   (module LED_THT:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 61336C03)
-    (at 174.715001 104.555001)
+    (at 144.235001 115.985001)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /61252413)
@@ -509,7 +509,7 @@
   )
 
   (module LED_THT:LED_D3.0mm (layer F.Cu) (tedit 587A3A7B) (tstamp 61336C16)
-    (at 170.645001 110.105001)
+    (at 140.165001 121.535001)
     (descr "LED, diameter 3.0mm, 2 pins")
     (tags "LED diameter 3.0mm 2 pins")
     (path /61253075)
@@ -544,7 +544,7 @@
   )
 
   (module Package_TO_SOT_THT:TO-92_Inline (layer F.Cu) (tedit 5A1DD157) (tstamp 61336C28)
-    (at 164.445001 112.675001)
+    (at 133.965001 124.105001)
     (descr "TO-92 leads in-line, narrow, oval pads, drill 0.75mm (see NXP sot054_po.pdf)")
     (tags "to-92 sc-43 sc-43a sot54 PA33 transistor")
     (path /61253832)
@@ -581,7 +581,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 61336C3F)
-    (at 142.495001 113.065001)
+    (at 112.015001 124.495001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /6124C785)
@@ -622,7 +622,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 61336C56)
-    (at 155.865001 99.295001)
+    (at 125.385001 110.725001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /6124CF23)
@@ -663,7 +663,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 61336C6D)
-    (at 167.735001 89.155001)
+    (at 137.255001 100.585001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /6124D459)
@@ -704,7 +704,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 61336C84)
-    (at 155.865001 103.345001)
+    (at 125.385001 114.775001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /6124DBDA)
@@ -745,7 +745,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 61336C9B)
-    (at 153.265001 113.065001)
+    (at 122.785001 124.495001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /6124E115)
@@ -786,7 +786,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 61336CB2)
-    (at 155.865001 107.395001)
+    (at 125.385001 118.825001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /6124EB36)
@@ -827,7 +827,7 @@
   )
 
   (module Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal (layer F.Cu) (tedit 5AE5139B) (tstamp 61336CC9)
-    (at 167.735001 93.205001)
+    (at 137.255001 104.635001)
     (descr "Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=7.62mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf")
     (tags "Resistor Axial_DIN0207 series Axial Horizontal pin pitch 7.62mm 0.25W = 1/4W length 6.3mm diameter 2.5mm")
     (path /6124F0CC)
@@ -868,7 +868,7 @@
   )
 
   (module digikey-footprints:Switch_Slide_11.6x4mm_EG1218 (layer F.Cu) (tedit 5A1EC915) (tstamp 61336CE1)
-    (at 131.965001 113.815001)
+    (at 101.485001 125.245001)
     (descr http://spec_sheets.e-switch.com/specs/P040040.pdf)
     (path /61256877)
     (fp_text reference S1 (at 2.49 -3.02) (layer F.SilkS)
@@ -905,7 +905,7 @@
   )
 
   (module 555_Badge:ICM7555-PDIP (layer F.Cu) (tedit 612B7374) (tstamp 61336CF5)
-    (at 160.479601 92.202)
+    (at 129.999601 103.632)
     (path /61238510)
     (fp_text reference U1 (at 0 -5.588) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
